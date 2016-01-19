@@ -1,6 +1,13 @@
 # meetup06-MobileDev
 
-Below you can find the the presentations slides:
+You can find the first three parts:
 
-* [Native mobile development presentation (pdf)](./DevStaff_Mobile_Presentation_Intro_iOS_Android.pdf)
-* [Cross-platform mobile development presentation (reveal.js based)] (https://meetup06-x-platform-mobile.herokuapp.com/#/)
+* Introduction
+* iOS
+* Android
+
+in the PDF included in this repository or online in Google Slides
+by clicking [here](https://docs.google.com/presentation/d/1Fj9IgYXpaSQmiiysQXeRvF_z-L8wLCYzsj-6nwXa9qk/edit?usp=sharing).
+
+You can find the last part about cross-platform development / Ionic in the respective
+folder or by clicking [here](https://meetup06-x-platform-mobile.herokuapp.com).
